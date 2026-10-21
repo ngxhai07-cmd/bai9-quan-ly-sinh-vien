@@ -6,7 +6,7 @@ import StudentForm from "./components/StudentForm";
 import StudentList from "./components/StudentList";
 import "./App.css";
 
-const API = "https://6716abcd1234567890mock.mockapi.io/students";
+const API = "https://6ad8da59f89c5702ed9a34fe.mockapi.io/students";
 
 export default function App() {
   const { theme, toggle } = useContext(ThemeContext);
